@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import LogisticsHome from './views/LogisticsHome.vue'
+import LogisticsHome from './views/LogisticsHome.vue';
 </script>
 
 <style>
